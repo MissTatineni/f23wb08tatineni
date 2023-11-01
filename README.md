@@ -6,7 +6,6 @@ Hosted at [render](https://f23wb08tatineni.onrender.com/)
 
 **Class Sweets**
 ***Attributes***
-br
--name(string)
--price(float)
--quantity(integer)
+name(string)
+price(float)
+quantity(integer)
