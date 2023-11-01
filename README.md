@@ -3,3 +3,10 @@ Assignment 10
 
 Repository for assignment 10
 Hosted at [render](https://f23wb08tatineni.onrender.com/)
+
+**Class Sweets**
+***Attributes***
+br
+-name(string)
+-price(float)
+-quantity(integer)
